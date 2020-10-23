@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFindNthRootAlgorithm", "TestFindNthRootAlgorithm\TestFindNthRootAlgorithm.csproj", "{9319599D-767E-451F-8A74-9348FBEF956B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIndNthRootAlgorithm", "FindNthRoot\FIndNthRootAlgorithm.csproj", "{7E7B3C94-3DA2-4C5F-9257-4F1203EBAFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9319599D-767E-451F-8A74-9348FBEF956B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9319599D-767E-451F-8A74-9348FBEF956B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9319599D-767E-451F-8A74-9348FBEF956B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9319599D-767E-451F-8A74-9348FBEF956B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7B3C94-3DA2-4C5F-9257-4F1203EBAFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7B3C94-3DA2-4C5F-9257-4F1203EBAFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7B3C94-3DA2-4C5F-9257-4F1203EBAFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7B3C94-3DA2-4C5F-9257-4F1203EBAFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59810C08-C0DD-44DD-B2D7-FD703E5031C3}
+	EndGlobalSection
+EndGlobal
